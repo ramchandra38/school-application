@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "Ramchandra",
+      "studclass": "A",
+      "marks": "80",
+      "phone": "9421873961",
+      "id": 1
+    },
+    {
+      "name": "Akash",
+      "studclass": "B",
+      "marks": "81",
+      "phone": "9956976968",
+      "id": 2
+    },
+    {
+      "name": "Suraj",
+      "studclass": "C",
+      "marks": "82",
+      "phone": "9956976967",
+      "id": 3
+    },
+    {
+      "name": "Rakesh",
+      "studclass": "D",
+      "marks": "84",
+      "phone": "9579579575",
+      "id": 4
+    },
+    {
+      "name": "Vikas",
+      "studclass": "E",
+      "marks": "85",
+      "phone": "9543876623",
+      "id": 5
+    }
+  ]
+}
